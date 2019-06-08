@@ -1,4 +1,4 @@
-# ![alt text](http://sohoos-production-userfiles.s3.amazonaws.com/mkstorage/91/51/lisa995/Logo.jpg)  Mosquito
+# ![Logo](https://user-images.githubusercontent.com/5777945/59148347-69c2e180-8a10-11e9-8145-14cb0eccc6d3.jpg)  Mosquito
 
 Automation for Web Projects Based Golang and Linux Bash
 
