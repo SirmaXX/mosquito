@@ -1,6 +1,8 @@
 #!/bin/sh
 # Author : Deniz Balcı
 # Project Automation
+mkdir logs
+mkdir outputs
 cd outputs
 echo "proje ismi nedir ?"
 read projectname
