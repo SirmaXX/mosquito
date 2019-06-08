@@ -9,7 +9,7 @@ sh test.sh
 ## TODOLİST
 - [ ] filejobs
 - [ ] git integration 
-
+- [ ] Logging System
 
 
 
