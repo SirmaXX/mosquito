@@ -7,8 +7,8 @@ sh test.sh
 
 
 ## TODOLİST
-- [ ] filejobs
-- [ ] git integration 
+- [ ] Filejobs
+- [ ] Git integration 
 - [ ] Logging System
 
 
